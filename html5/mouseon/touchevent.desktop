@@ -1,5 +1,5 @@
 [Desktop Entry]
-Name=mouseon
+Name=Touch Event
 Exec=ubuntu-html5-app-launcher $@ --www=www
 Icon=qmlscene
 Terminal=false

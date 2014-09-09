@@ -1,15 +1,15 @@
 {
-    "name": "com.ubuntu.developer.chihchun.mouseon",
-    "description": "description of mouseon",
+    "name": "com.ubuntu.developer.chihchun.touchevent",
+    "description": "Test Touch event.",
     "framework": "ubuntu-sdk-14.04-html-dev1",
     "architecture": "all",
-    "title": "mouseon",
+    "title": "touchevent",
     "hooks": {
-        "mouseon": {
-            "apparmor": "mouseon.json",
-            "desktop": "mouseon.desktop"
+        "touchevent": {
+            "apparmor": "touchevent.json",
+            "desktop": "touchevent.desktop"
         }
     },
-    "version": "0.1",
+    "version": "0.2",
     "maintainer": "Rex Tsai <rex.tsai@canonical.com>"
 }
