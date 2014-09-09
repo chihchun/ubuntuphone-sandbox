@@ -1,0 +1,15 @@
+{
+    "name": "com.ubuntu.developer.chihchun.canvas",
+    "description": "test program",
+    "framework": "ubuntu-sdk-14.04-html-dev1",
+    "architecture": "all",
+    "title": "canvas",
+    "hooks": {
+        "html5": {
+            "apparmor": "canvas.json",
+            "desktop": "canvas.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "Rex Tsai <rex.tsai@canonical.com>"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "com.ubuntu.developer.chihchun.mouseon",
+    "description": "description of mouseon",
+    "framework": "ubuntu-sdk-14.04-html-dev1",
+    "architecture": "all",
+    "title": "mouseon",
+    "hooks": {
+        "mouseon": {
+            "apparmor": "mouseon.json",
+            "desktop": "mouseon.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "Rex Tsai <rex.tsai@canonical.com>"
+}
